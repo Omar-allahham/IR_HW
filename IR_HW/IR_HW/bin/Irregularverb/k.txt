@@ -1,0 +1,4 @@
+keep;kept;kept;
+kneel;knelt;knelt;
+knit;knit;knit;
+know;knew;known;

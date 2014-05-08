@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWord_Category xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Word_Category>
+    <Word>Country</Word>
+    <Category>state</Category>
+  </Word_Category>
+  <Word_Category>
+    <Word>Country</Word>
+    <Category>nation</Category>
+  </Word_Category>
+  <Word_Category>
+    <Word>Country</Word>
+    <Category>country</Category>
+  </Word_Category>
+  <Word_Category>
+    <Word>Country</Word>
+    <Category>land</Category>
+  </Word_Category>
+  <Word_Category>
+    <Word>Country</Word>
+    <Category>commonwealth</Category>
+  </Word_Category>
+  <Word_Category>
+    <Word>Country</Word>
+    <Category>res_publica</Category>
+  </Word_Category>
+  <Word_Category>
+    <Word>Country</Word>
+    <Category>body_politic</Category>
+  </Word_Category>
+</ArrayOfWord_Category>

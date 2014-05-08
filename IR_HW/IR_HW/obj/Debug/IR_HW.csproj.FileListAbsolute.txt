@@ -1,0 +1,190 @@
+c:\users\it\documents\visual studio 2010\Projects\IR_HW\IR_HW\bin\IR_HW.dll
+c:\users\it\documents\visual studio 2010\Projects\IR_HW\IR_HW\bin\IR_HW.pdb
+c:\users\it\documents\visual studio 2010\Projects\IR_HW\IR_HW\bin\Tweetinvi.API.dll
+c:\users\it\documents\visual studio 2010\Projects\IR_HW\IR_HW\obj\Debug\IR_HW.csprojResolveAssemblyReference.cache
+c:\users\it\documents\visual studio 2010\Projects\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+c:\users\it\documents\visual studio 2010\Projects\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IR_HW.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IR_HW.pdb
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\obj\Debug\IR_HW.csprojResolveAssemblyReference.cache
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.AWT.WinForms.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Beans.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Charsets.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Corba.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Core.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Management.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Media.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Misc.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Naming.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Remoting.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Security.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Text.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Tools.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.Util.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.API.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.Reflection.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.Runtime.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\IKVM.Runtime.JNI.dll
+C:\Users\Omar'\Dropbox\College\استرجاع معلومات\IR_HW\IR_HW\bin\opennlp.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IR_HW.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IR_HW.pdb
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.AWT.WinForms.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Beans.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Charsets.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Corba.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Core.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Management.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Media.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Misc.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Naming.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Remoting.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Security.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Text.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Tools.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.Util.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.API.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.Reflection.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.Runtime.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\IKVM.Runtime.JNI.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\bin\opennlp.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\IR_HW.csprojResolveAssemblyReference.cache
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+C:\Users\Omar'\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\IR_HW.dll
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\IR_HW.pdb
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\IR_HW.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\IR_HW.pdb
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\Tweetinvi.API.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\dotNetRDF.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\HtmlAgilityPack.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\Newtonsoft.Json.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\VDS.Common.dll
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\dotNetRDF.xml
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\HtmlAgilityPack.pdb
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\HtmlAgilityPack.xml
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\Newtonsoft.Json.xml
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\VDS.Common.pdb
+C:\Users\It\Dropbox\College\IR\IR_HW\IR_HW\bin\VDS.Common.xml
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\dotNetRDF.dll
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\HtmlAgilityPack.dll
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\Newtonsoft.Json.dll
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\VDS.Common.dll
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\dotNetRDF.xml
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\HtmlAgilityPack.pdb
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\HtmlAgilityPack.xml
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\Newtonsoft.Json.xml
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\VDS.Common.pdb
+C:\Users\Omar\Dropbox\College\IR\IR_HW\IR_HW\bin\VDS.Common.xml
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\IR_HW.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\IR_HW.pdb
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\DEG.ServiceCore.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\DEG.Twitter.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\dotNetRDF.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\HtmlAgilityPack.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\Newtonsoft.Json.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\VDS.Common.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\dotNetRDF.xml
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\HtmlAgilityPack.pdb
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\HtmlAgilityPack.xml
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\Newtonsoft.Json.xml
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\VDS.Common.pdb
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\bin\VDS.Common.xml
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+C:\Users\Omar\Dropbox\With_Anas\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\IR_HW.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\IR_HW.pdb
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\DEG.ServiceCore.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\DEG.Twitter.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\dotNetRDF.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\HtmlAgilityPack.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\Newtonsoft.Json.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\VDS.Common.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\dotNetRDF.xml
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\HtmlAgilityPack.pdb
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\HtmlAgilityPack.xml
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\Newtonsoft.Json.xml
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\VDS.Common.pdb
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\bin\VDS.Common.xml
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+C:\Users\ANAS\Desktop\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+F:\IR_HW\IR_HW\bin\IR_HW.dll
+F:\IR_HW\IR_HW\bin\IR_HW.pdb
+F:\IR_HW\IR_HW\bin\dotNetRDF.dll
+F:\IR_HW\IR_HW\bin\HtmlAgilityPack.dll
+F:\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+F:\IR_HW\IR_HW\bin\Newtonsoft.Json.dll
+F:\IR_HW\IR_HW\bin\VDS.Common.dll
+F:\IR_HW\IR_HW\bin\dotNetRDF.xml
+F:\IR_HW\IR_HW\bin\HtmlAgilityPack.pdb
+F:\IR_HW\IR_HW\bin\HtmlAgilityPack.xml
+F:\IR_HW\IR_HW\bin\Newtonsoft.Json.xml
+F:\IR_HW\IR_HW\bin\VDS.Common.pdb
+F:\IR_HW\IR_HW\bin\VDS.Common.xml
+F:\IR_HW\IR_HW\obj\Debug\ResolveAssemblyReference.cache
+F:\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+F:\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+G:\IR_HW\IR_HW\bin\IR_HW.dll
+G:\IR_HW\IR_HW\bin\IR_HW.pdb
+G:\IR_HW\IR_HW\bin\dotNetRDF.dll
+G:\IR_HW\IR_HW\bin\HtmlAgilityPack.dll
+G:\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+G:\IR_HW\IR_HW\bin\Newtonsoft.Json.dll
+G:\IR_HW\IR_HW\bin\VDS.Common.dll
+G:\IR_HW\IR_HW\bin\dotNetRDF.xml
+G:\IR_HW\IR_HW\bin\HtmlAgilityPack.pdb
+G:\IR_HW\IR_HW\bin\HtmlAgilityPack.xml
+G:\IR_HW\IR_HW\bin\Newtonsoft.Json.xml
+G:\IR_HW\IR_HW\bin\VDS.Common.pdb
+G:\IR_HW\IR_HW\bin\VDS.Common.xml
+G:\IR_HW\IR_HW\obj\Debug\ResolveAssemblyReference.cache
+G:\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+G:\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+D:\IR_HW\IR_HW\bin\IR_HW.dll
+D:\IR_HW\IR_HW\bin\IR_HW.pdb
+D:\IR_HW\IR_HW\bin\dotNetRDF.dll
+D:\IR_HW\IR_HW\bin\HtmlAgilityPack.dll
+D:\IR_HW\IR_HW\bin\ICSharpCode.SharpZipLib.dll
+D:\IR_HW\IR_HW\bin\Newtonsoft.Json.dll
+D:\IR_HW\IR_HW\bin\VDS.Common.dll
+D:\IR_HW\IR_HW\bin\dotNetRDF.xml
+D:\IR_HW\IR_HW\bin\HtmlAgilityPack.pdb
+D:\IR_HW\IR_HW\bin\HtmlAgilityPack.xml
+D:\IR_HW\IR_HW\bin\Newtonsoft.Json.xml
+D:\IR_HW\IR_HW\bin\VDS.Common.pdb
+D:\IR_HW\IR_HW\bin\VDS.Common.xml
+D:\IR_HW\IR_HW\obj\Debug\ResolveAssemblyReference.cache
+D:\IR_HW\IR_HW\obj\Debug\IR_HW.dll
+D:\IR_HW\IR_HW\obj\Debug\IR_HW.pdb
+D:\IR_HW\IR_HW\bin\WordNetClasses.dll
+D:\IR_HW\IR_HW\bin\WordNetClasses.pdb

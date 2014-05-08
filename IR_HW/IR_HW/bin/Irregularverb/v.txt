@@ -1,0 +1,12 @@
+vacate;vacating;vacated;
+validate;validating;validated;
+value;valuing;valued;
+venerate;venerating;venerated;
+venture;venturing;ventured;
+verge;verging;verged;
+vibrate;vibrating;vibrated;
+vie;viing;vied;
+vindicate;vindicating;vindicated;
+vitiate;vitiating;vitiated;
+voice;voicing;voiced;
+vote;voting;voted;

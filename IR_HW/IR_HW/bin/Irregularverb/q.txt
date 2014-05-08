@@ -1,0 +1,6 @@
+quick-freeze;quick-froze;quick-frozen;
+quit;quit;quit;
+quit;quitted;quitted;
+quake;quaking;quaked;
+quibble;quibbling;quibbled;
+quote;quoting;quoted;

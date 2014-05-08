@@ -1,0 +1,6 @@
+jerry-build;jerry-built;jerry-built;
+jiggle;jiggling;jiggled;
+jostle;jostling;jostled;
+judge;judging;judged;
+juggle;juggling;juggled;
+jumble;jumbling;jumbled;
